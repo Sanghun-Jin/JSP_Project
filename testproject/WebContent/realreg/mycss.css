@@ -1,0 +1,93 @@
+@charset "UTF-8";
+.myinf{
+	    margin-left: auto;
+    margin-right: auto;
+	width: 600px;
+	height: 500px;
+	background-color: #F2F2F2;
+	text-align: center;
+	font-size: 27px;
+}
+.myinf2{
+	    margin-left: auto;
+    margin-right: auto;
+	height: 400px;
+	background-color: #F2F2F2;
+	text-align: center;
+}
+.myinf2 h3{
+	font-size: 27px;
+}
+.myinf2 td{
+	font-size: 17px;
+}
+.maintitle{
+	text-align: center;
+}
+.mytable{
+	    margin-left: auto;
+    margin-right: auto;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.tti{
+	margin-bottom: 15px;
+}
+.mytable td{
+	margin-bottom: 5px;
+}
+.int{
+	margin-bottom: 15px;
+}
+.butn1{
+	margin-top: 12px;
+	    margin-left: auto;
+    margin-right: auto;
+}
+.findid{
+	width: 350px;
+	height: 200px;
+	margin-top: 50px;
+	background-color: #F2F2F2;
+}
+.findpw{
+	width: 350px;
+	height: 200px;
+	background-color: #F2F2F2;
+}
+.findid h3{
+	text-align: center;
+}
+.findid p{
+	text-align: center;
+}
+.findpw h3{
+	text-align: center;
+}
+.findpw p{
+	text-align: center;
+}
+.fiad{
+	margin-left: 55px;
+	margin-top: 10px;
+}
+.fibtn{
+	margin-top: 15px;
+	margin-left: 127px;
+}
+.del{
+	width: 350px;
+	height: 150px;
+	background-color: #F2F2F2;
+	margin-top: 15px;
+	    margin-left: auto;
+    margin-right: auto;
+}
+.delti{
+	margin-top: 10px;
+}
+.deld table{
+	margin-top: 18px;
+	    margin-left: auto;
+    margin-right: auto;
+}

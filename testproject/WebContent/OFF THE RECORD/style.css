@@ -1,0 +1,358 @@
+@charset "utf-8";
+
+body{
+  margin:0;
+}
+
+.navbar-top{
+  font-size:14px;
+  height:100px;
+  color: white;
+  background-color: #2C3E50;
+  position: fixed;
+  width: 1903px;
+}
+
+.nav-brand{
+  padding-top:5px;
+  float:left;
+  font-size:2em;
+  height:50px;
+}
+
+li{
+  padding-right:35px;
+  list-style: none;
+  float:left;
+}
+
+ul{
+  float:right;
+  height:50px;
+}
+
+li a{
+  padding:10px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav{
+  margin-right:93.5px;
+  margin-left:93.5px;
+  padding:25px;
+  height:50px;
+}
+
+.img{
+  text-align:center;
+  color:white;
+  background-color:#18BC9C;
+  height:550px;
+  width:100%;
+  padding-top:250px;
+}
+
+  .fh{
+  margin-top:25px;
+  margin-bottom:25px;
+  width:250px;
+  border-top: solid 5px white;
+}
+.dh{
+margin-top:25px;
+margin-bottom:25px;
+width:250px;
+border-top: solid 5px black;
+}
+.ah{
+margin-top:25px;
+margin-bottom:25px;
+width:250px;
+border-top: solid 5px white;
+color: white;
+}
+.ch{
+margin-top:25px;
+margin-bottom:25px;
+width:250px;
+border-top: solid 5px black;
+color: white;
+}
+.lulink{
+  color: #18BC9C;
+}
+
+.name{
+  margin-top:0;
+  margin-bottom:0;
+  font-size:4.75em;
+}
+.dname{
+  margin-top:100px;
+  text-align: center;
+  font-size:42px;
+
+}
+.aname{
+  margin-top:80px;
+  text-align: center;
+  font-size:42px;
+  color: white;
+
+}
+.cname{
+  margin-top:80px;
+  text-align: center;
+  font-size:42px;
+  color: black;
+
+}
+
+#ABOUT{
+  background-color: #18BC9C;
+
+}
+#end{
+  background-color: #2C3E50;
+}
+
+.skills{
+  font-size:1.75em;
+}
+.Green a:hover{
+color: #18BC9C;
+}
+.Green li a:active{
+  background-color:#18BC9C;
+  color:white;
+}
+
+.Green li a:{
+  background-color:#18BC9C;
+  color:white;
+}
+.photos{
+  margin-left: 400px;
+}
+.photos img{
+  margin-top: 15px;
+  margin-right: 15px;
+}
+.firsttext
+{
+  color: white;
+  width: 390px;
+  height: 234px;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 550px;
+}
+
+.text1
+{
+  color: white;
+  width: 390px;
+  height: 75px;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 550px;
+  margin-bottom: 150px;
+}
+.text2
+{
+  color: white;
+  width: 390px;
+  height: 50px;
+  text-align: left;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 18px;
+}
+.link1{
+  color: white;
+  width: 258px;
+  height: 44px;
+  text-align-last: center;
+  text-align: center;
+  margin-left: 50px;
+  font-size: 20px;
+  margin-bottom: 105px;
+  border: 2px solid;
+  border-radius:5px;
+  border-color: white;
+}
+.link1:hover{
+  background-color: white;
+  width: 258px;
+  height: 44px;
+  text-align-last: center;
+  text-align: center;
+  margin-left: 50px;
+  font-size: 20px;
+  margin-bottom: 105px;
+  border: 2px solid;
+  border-radius:5px;
+  border-color: white;
+
+}
+.link1:hover a{
+  margin-bottom: -15px;
+  color: #18BC9C;
+}
+.buylink{
+  color: white;
+  width: 258px;
+  height: 44px;
+  text-align-last: center;
+  text-align: center;
+  margin-left: 850px;
+  font-size: 20px;
+  margin-bottom: 105px;
+  border: 2px solid;
+  border-radius:5px;
+  border-color: white;
+}
+.buylink:hover{
+  color: white;
+  width: 258px;
+  height: 44px;
+  text-align-last: center;
+  text-align: center;
+  margin-left: 850px;
+  font-size: 20px;
+  margin-bottom: 105px;
+  border: 2px solid;
+  border-radius:5px;
+  border-color: white;
+  background-color: white;
+
+}
+.buylink:hover a{
+  margin-bottom: -15px;
+  color: #18BC9C;
+}
+.contact-main{
+  margin-left: 580px;
+  font-size: 20px;
+  border-width: 1px 0px 1px ;
+  font-size: 20px;
+}
+.lasttable{
+  color: white;
+  margin-left: 570px;
+  text-align: center;
+}
+.latop{
+  font-size: 24px;
+}
+.labot{
+  font-size: 20px;
+}
+.cmname{
+  width: 780px;
+  height: 74px;
+  border-top
+  border-bottom
+}
+.cmname input{
+  width: 750px;
+  height: 74px;
+  padding: 6px;
+  border-width: 1px;
+  border-style: solid hidden hidden hidden;
+}
+.email{
+  width: 780px;
+  height: 74px;
+  border-top
+  border-bottom
+}
+.email input{
+  width: 750px;
+  height: 74px;
+  padding: 6px;
+  border-width: 1px;
+  border-style: solid hidden hidden hidden;
+}
+.pn{
+  width: 780px;
+  height: 74px;
+  border-top
+  border-bottom
+}
+.pn input{
+  width: 750px;
+  height: 74px;
+  padding: 6px;
+  border-width: 1px;
+  border-style: solid hidden hidden hidden;
+}
+.message{
+  width: 780px;
+  height: 201px;
+  border-top;
+  border-bottom;
+}
+.message textarea{
+  width: 750px;
+  height: 201px;
+  padding: 6px;
+  border-width: 1px;
+  border-style: solid hidden hidden hidden;
+}
+#realend{
+  background-color: #233140;
+  color: #FFFFFF;
+  font-size: 14px;
+  padding: 25px;
+}
+#realend p{
+  margin-left: 850px;
+}
+.p1:hover{
+  opacity: 0.8;
+  color: #18BC9C;
+
+}
+.p2:hover{
+  opacity: 0.8;
+  color: #18BC9C;
+
+}
+.p3:hover{
+  opacity: 0.8;
+  color: #18BC9C;
+
+}
+.p4:hover{
+  opacity: 0.8;
+  color: #18BC9C;
+
+}
+.p5:hover{
+  opacity: 0.8;
+  color: #18BC9C;
+
+}
+.p6:hover{
+  opacity: 0.8;
+  color: #18BC9C;
+
+}
+.but1{
+  width:74px;
+  height: 46px;
+  background-color: #18BC9C;
+  border-radius:10px;
+  color: white;
+}
+
+
+
+div>img
+
+div - background opacity

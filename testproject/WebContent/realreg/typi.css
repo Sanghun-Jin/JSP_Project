@@ -1,0 +1,30 @@
+@charset "UTF-8";
+div{
+	width: 600px;
+	background-color: pink;
+}
+.cupload{
+	margin-left: 37%;
+}
+.cupload form{
+	width: 750px;
+	height: 600px;
+}
+.cupload h3{
+	margin-left: 45%;
+}
+.title{
+	width: 420px;	
+	height: 30px;
+	background-color:;
+}
+.val{
+	width: 418px;
+	height: 480px;
+	resize: none;
+}
+.btns{
+	width:300px;
+	margin-left: 33%;
+}
+

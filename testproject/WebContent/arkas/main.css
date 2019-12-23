@@ -1,0 +1,91 @@
+@charset "utf-8";
+.header{
+  top:0;
+  height: 120px;
+  background-color: white;
+  background-image:none;
+  position: fixed;
+  height:100px;
+  width:100%;
+  text-align:center;
+}
+.topMenu {
+background-color: white;
+margin-right: 300px;
+height: 30px;
+width: 500px;
+padding : 25px;
+padding-left: 530px;
+padding-right: 500px;
+position: fixed;
+height:35px;
+width:100%;
+z-index: 10;
+
+}
+.topMenu ul li {
+	list-style: none;
+	color: black;
+	background-color: white;
+	float: left;
+	line-height: 30px;
+	vertical-align: middle;
+	text-align: center;
+	text-decoration: none;
+
+
+}
+.topMenu .menuLink {
+	text-decoration:none;
+	color: black;
+	display: block;
+	width: 150px;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+.topMenu .menuLink:hover {
+color: red;
+background-color: #4d4d4d;
+
+}
+.mainimg{
+  width: 960px;
+  height: 720px;
+  margin-left: 500px;
+
+}
+.title{
+  text-align: center;
+}
+.subt{
+  text-align: center;
+}
+.con1{
+  margin-left: 600px;
+  text-align: center;
+}
+.con2
+{
+  text-align: center;
+}
+p{
+  margin-top: 15px;
+}
+.con3{
+  margin-top: 10px;
+  text-align: center;
+}
+.con4{
+  text-align: center;
+}
+
+.pic1{
+  margin-left: 500px;
+}
+.pic2{
+  margin-left: 500px;
+}
+.pic3{
+  margin-left: 805px;
+}

@@ -1,0 +1,135 @@
+@charset "UTF-8";
+body{
+  margin: 0px;
+}
+.homeli{
+	text-decoration:none;
+	color: black;
+}
+.home{
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 0px;
+  font-size: 30px;
+  width: 250px;
+}
+.menu{
+  margin-left: 300px;
+}
+.menu a{
+  margin-left: 5px;
+}
+.top{
+  height: 75px;
+  list-style :none;
+  background-color: #F2F2F2;
+  width: 1903px;
+  position: fixed;
+  margin: 0; padding: 0;
+  list-style: none;
+}
+.menu ul li {
+	list-style: none;
+	color: black;
+	background-color: #F2F2F2;
+	float: left;
+	line-height: 30px;
+	vertical-align: middle;
+	text-align: center;
+	text-decoration: none;
+
+}
+.menu .menulink {
+	text-decoration:none;
+	color: black;
+	display: block;
+	width: 150px;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+.menu .menulink1 {
+	text-decoration:none;
+	color: white;
+	background-color: #013ADF;
+	display: block;
+	width: 150px;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+.menu .menulink:hover {
+color: white;
+background-color: #013ADF;
+
+}
+.dropbtn {
+  background-color: #0080FF;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+  margin-left: 490px;
+  margin-top: 10px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown2:hover .dropdown-content {display: block;}
+
+.dropdown2:hover .dropbtn {background-color: #013ADF;}
+
+.main1{
+	background-color: #F2F2F2;
+	margin-left: 500px;
+}
+.contit{
+	margin-top: 50px;
+	margin-left: 45%;
+	font-size: 27px;
+}
+.right{
+	width:500px;
+	height: 1000px;
+}
+.mid{
+	width: 903px;
+	height: 1000px;
+}
+.left{
+	width: 500px;
+	height: 1000px;
+}
+.content{
+	margin-left: 15%;
+}
+.content td{
+	color: white;
+	text-align: center;
+	margin-left: 0%;
+}
+.cdrow:hover{
+	background-color: #D1D1D1;
+
+}
